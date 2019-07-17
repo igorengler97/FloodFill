@@ -1,15 +1,14 @@
+/*
+*   Flood fill for bidimensional arrays
+*   Author: https://github.com/igorengler97
+*/
+
 #include <iostream>
 #include <fstream>
 #include <malloc.h>
 
 #define L 10
 #define C 10
-
-/*
-*   Flood fill for bidimensional arrays
-*   Author: https://github.com/igorengler97
-*/
-
 
 using namespace std;
 
